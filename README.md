@@ -1,2 +1,2 @@
-# README
-about me.
+# Oswar Orlando Baez 
+### Fullstack developer self-taught , certification with Digital House / Protalent in process. Mechatronic Engineer, Master in Project Management with 5 years of experience in complex systems maintenance.With extensive knowledge in programming languages syntax and algorithms implementation to automate tasks and optimize process, strong committed to learning new skills and  solids communication and leadership skills developed by working as Supervisor and project executor coordinating teams work. 
